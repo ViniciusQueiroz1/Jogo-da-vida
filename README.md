@@ -40,7 +40,7 @@ Git instalado (opcional, para clonar o repositório).
 
 Passo a Passo
 Clone este repositório:
-git clone https://github.com/ViniciusQueiroz1/jogo-da-vida-cpp.git
+git clone [https://github.com/ViniciusQueiroz1/jogo-da-vida-cpp.git](https://github.com/ViniciusQueiroz1/Jogo-da-vida/tree/main/Jogo%20da%20vida)
 cd jogo-da-vida-cpp
 
 Compile todos os arquivos
